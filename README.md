@@ -23,7 +23,7 @@ keylogger-project/
 │
 ├── keylogger/                  
 │   └── keylogger.py            
-│   └── keylogger.py            
+│   └── interface.py            
 ├── server/                     
 │   ├── server.py               
 │   └── telegram_bot.py         
